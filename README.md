@@ -1,2 +1,17 @@
-# yolov8-realtime-object-detection
-Real-time object detection system using YOLOv8 (Ultralytics) with Python and Tkinter GUI. Captures live webcam feed, performs inference, displays bounding boxes, confidence scores, and FPS counter. Suitable for AI teaching, robotics projects, and computer vision demonstrations.
+# Real-Time Object Detection using YOLOv8
+
+This project demonstrates real-time object detection using YOLOv8 with a Tkinter GUI.
+
+## Features
+- Real-time webcam detection
+- FPS counter
+- Confidence filtering
+- GUI-based interface
+
+## Installation
+
+pip install -r requirements.txt
+
+## Run
+
+python app.py
