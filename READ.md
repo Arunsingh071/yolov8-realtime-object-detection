@@ -20,4 +20,5 @@ python app.py
 
 ![Demo](demo.png)
 
+
 Developed for academic demonstration and AI teaching purposes.
